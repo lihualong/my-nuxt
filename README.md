@@ -1,5 +1,4 @@
-# MyNuxt
-
+# Vue Nuxt 工作、学习总结
 > My marvelous Nuxt.js project
 
 ## Build Setup
